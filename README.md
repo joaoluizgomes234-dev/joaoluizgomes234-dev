@@ -43,6 +43,4 @@ Busco minha primeira oportunidade na área de Tecnologia da Informação para ap
 📧 Luizjoao987@gmail.com
 
 💼 LinkedIn:
-(www.linkedin.com/in/joão-luiz-gomes-27662941b
-
-)
+(www.linkedin.com/in/joão-luiz-gomes-27662941b)
