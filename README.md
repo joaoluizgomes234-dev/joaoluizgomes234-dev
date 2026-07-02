@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá! 👋 Eu sou João Luiz Gomes de Castro
 
-<!--
-**joaoluizgomes234-dev/joaoluizgomes234-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação - UNIP
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Back-end em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Atualmente estudando
+
+- ☕ Java
+- 🗄 SQL
+- 🌱 Spring Boot
+- ⚙ Git e GitHub
+- 🌐 APIs REST
+- ☁ Cloud Computing
+- 🏢 SAP
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade na área de Tecnologia da Informação para aplicar meus conhecimentos, desenvolver soluções de software e crescer profissionalmente.
+
+---
+
+## 💡 Principais Competências
+
+- Desenvolvimento Back-end
+- Java
+- Banco de Dados
+- Engenharia de Software
+- Git
+- GitHub
+- SQL
+- Comunicação
+- Trabalho em equipe
+
+---
+
+## 📫 Contato
+
+📧 Luizjoao987@gmail.com
+
+💼 LinkedIn:
+(cole aqui o link do seu LinkedIn)
