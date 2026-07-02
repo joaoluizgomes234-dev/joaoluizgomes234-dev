@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Atualmente estudando
+## 🚀 Atualmente  estudando
 
 - ☕ Java
 - 🗄 SQL
