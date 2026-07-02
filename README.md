@@ -10,7 +10,6 @@
 
 - ☕ Java
 - 🗄 SQL
--  Spring Boot 
 - ⚙ Git e GitHub
 - 🌐 APIs REST
 - ☁ Cloud Computing
